@@ -1,5 +1,5 @@
-**Curso Full Stack JavaScript** 
-One Bit Code
-Repositório de exercícios propostos. 
+# Curso Full Stack JavaScript <br> <br>
+**One Bit Code** <br>
+- Repositório de exercícios propostos. 
 
 
